@@ -16,7 +16,7 @@ export default function App() {
         <ClientCarousel />
         <Services />
         <Portfolio />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <Contact />
       </main>
       <Footer />
